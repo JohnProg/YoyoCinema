@@ -1,0 +1,47 @@
+{
+  "meta" : {
+    "is_cached" : false,
+    "language" : {
+      "locale" : "en_EN",
+      "id" : 56,
+      "name" : "English",
+      "is_default" : false,
+      "direction" : "LRM"
+    }
+  },
+  "data" : {
+    "en_EN" : {
+      "login" : {
+        "loginTitle" : "Hello there! Please, log in to continue",
+        "loginSubtitle" : "Enjoy the movie :)"
+      },
+      "default" : {
+        "skip" : "Skip",
+        "save" : "Save",
+        "back" : "Back",
+        "cancel" : "Cancel\r\n",
+        "settings" : "Settings",
+        "loginTitle" : "Hello there! Please, log in to continue",
+        "previous" : "Previous\r\n",
+        "retry" : "Retry",
+        "ok" : "Ok",
+        "no" : "No\r\n",
+        "yes" : "Yes",
+        "next" : "Next\r\n",
+        "edit" : "Edit\r\n",
+        "later" : "Later"
+      },
+      "error" : {
+        "connectionError" : "Connection error\r\n",
+        "unknownError" : "Unknown error",
+        "errorTitle" : "Error\r\n",
+        "authenticationError" : "Error\r\n"
+      },
+      "profile" : {
+        "profileEmail" : "Email",
+        "profileFirstName" : "First name",
+        "profileLastName" : "Last name"
+      }
+    }
+  }
+}

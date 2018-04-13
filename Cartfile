@@ -1,0 +1,13 @@
+#Nodes
+github "nodes-ios/Serpent" ~> 1.0
+github "nodes-ios/NStackSDK" ~> 2.0
+github "nodes-ios/Codemine" == 1.0
+github "nodes-ios/Nodes" "develop"
+github "facebook/Facebook-SDK-Swift"
+github "BoltsFramework/Bolts-Swift"
+github "bitstadium/HockeySDK-iOS"
+github "nodes-ios/Blobfish" ~> 1.0
+github "Alamofire/Alamofire" ~> 4.7
+github "evgenyneu/Cosmos" ~> 15.0
+github "realm/realm-cocoa"
+github "urbanairship/ios-library"
